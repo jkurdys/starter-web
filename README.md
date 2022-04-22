@@ -6,6 +6,7 @@ Adding a line for rebasing example, but with more changes from myFeature branch,
 
 ## Introduction
 the final outrage
+emergency fix after  stash
 
 ## Purpose
 
