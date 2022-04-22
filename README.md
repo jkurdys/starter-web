@@ -13,3 +13,5 @@ Sample website with plenty of files for demos
 MAKING SOME TEXT TO NOTE DIFFS WITH
 ## Deployment
 uh oh, more changes
+## Copywrite
+copywrite 2014 git.training
