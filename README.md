@@ -18,3 +18,4 @@ fork this repo AND issue pull req for review
 uh oh, more changes
 ## Copywrite
 copywrite 2014 git.training
+all rights reserved
